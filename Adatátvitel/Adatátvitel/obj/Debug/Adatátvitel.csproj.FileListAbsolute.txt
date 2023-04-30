@@ -1,0 +1,11 @@
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\bin\Debug\Adatátvitel.exe.config
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\bin\Debug\Adatátvitel.exe
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\bin\Debug\Adatátvitel.pdb
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\obj\Debug\Adatátvitel.csproj.AssemblyReference.cache
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\obj\Debug\Adatátvitel.csproj.SuggestedBindingRedirects.cache
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\obj\Debug\Adatátvitel.Form1.resources
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\obj\Debug\Adatátvitel.Properties.Resources.resources
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\obj\Debug\Adatátvitel.csproj.GenerateResource.cache
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\obj\Debug\Adatátvitel.csproj.CoreCompileInputs.cache
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\obj\Debug\Adatátvitel.exe
+E:\Prog_Évvégi_Beadandó\Adatátvitel\Adatátvitel\obj\Debug\Adatátvitel.pdb
